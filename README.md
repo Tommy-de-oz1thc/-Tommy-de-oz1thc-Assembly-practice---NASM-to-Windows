@@ -7,7 +7,7 @@ Niveau 1 – Grundlæggende
 1. UdsAssembly Øvelser - NASM til Windowskriv tallene 1–10 med _printf
 Lav et loop fra 1 til 10, og udskriv hvert tal med _printf. Brug eax/ebx som tællere.
 
-*2. Toggle et flag med XOR
+2. Toggle et flag med XOR
 Definér en variabel 'flag db 1'. Skift mellem 0 og 1 ved hjælp af XOR, og vis værdien.
 
 *3. Funktion: Returnér summen af to tal
