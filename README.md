@@ -13,6 +13,8 @@ Definér en variabel 'flag db 1'. Skift mellem 0 og 1 ved hjælp af XOR, og vis 
 3. Funktion: Returnér summen af to tal
 Lav en funktion 'add' som tager to parametre på stacken og returnerer deres sum.
 
+4. Get char og vis aschii
+Lav en funktion der udskriver aschii værdien for en char.
 
 Niveau 2 – Spilrelaterede
 -------------------------
