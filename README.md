@@ -10,7 +10,7 @@ Lav et loop fra 1 til 10, og udskriv hvert tal med _printf. Brug eax/ebx som tæ
 2. Toggle et flag med XOR
 Definér en variabel 'flag db 1'. Skift mellem 0 og 1 ved hjælp af XOR, og vis værdien.
 
-*3. Funktion: Returnér summen af to tal
+3. Funktion: Returnér summen af to tal
 Lav en funktion 'add' som tager to parametre på stacken og returnerer deres sum.
 
 *4. Get char og vis aschii
