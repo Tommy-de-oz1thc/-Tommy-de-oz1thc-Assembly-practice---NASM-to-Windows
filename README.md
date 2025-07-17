@@ -18,7 +18,7 @@ Lav en funktion der udskriver aschii værdien for en char.
 
 Niveau 2 – Spilrelaterede
 -------------------------
-*4. inc_stat: Tæl bestået/dumpet
+4. inc_stat: Tæl bestået/dumpet
 Lav en funktion der inkrementerer en statistikvariabel (pass/fail) givet en offset.
 
 *5. Statistikoversigt: Vis for flere rum
