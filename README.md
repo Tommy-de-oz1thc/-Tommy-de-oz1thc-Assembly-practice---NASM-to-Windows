@@ -42,10 +42,10 @@ Spilleren skal skrive 4 tegn korrekt (sammenlignes byte for byte med gemt kode).
 
 Bonusøvelser
 ------------
-*10. Alternativ afslutning afhængig af flag
+10. Alternativ afslutning afhængig af flag
 Afslut spillet forskelligt afhængig af et bestemt flag (fx 'hoppet ud af vindue').
 
-*11. Vis/skjul-tilstand og vis status
+11. Vis/skjul-tilstand og vis status
 Skift vis/skjul-flag og udskriv teksten 'Tekst vises' eller 'Tekst skjult'.
 
 
