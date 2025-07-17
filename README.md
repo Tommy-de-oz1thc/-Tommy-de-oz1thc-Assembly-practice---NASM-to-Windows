@@ -21,7 +21,7 @@ Niveau 2 – Spilrelaterede
 4. inc_stat: Tæl bestået/dumpet
 Lav en funktion der inkrementerer en statistikvariabel (pass/fail) givet en offset.
 
-*5. Statistikoversigt: Vis for flere rum
+5. Statistikoversigt: Vis for flere rum
 Udskriv fx: 'Rum 1: Pass=3, Fail=1'. Brug _printf og variabler pr. rum.
 
 *6. Tilfældig CW-sekvens (bogstaver A–Z)
