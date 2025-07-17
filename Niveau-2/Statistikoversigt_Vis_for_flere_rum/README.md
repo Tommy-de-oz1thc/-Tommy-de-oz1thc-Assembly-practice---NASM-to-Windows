@@ -8,3 +8,11 @@ Print fx 'Rum 1: Pass=3, Fail=1' med _printf.
 
 ## Det jeg har lært
 Dataformatering, brug af flere variabler, udskrivning.
+
+
+## Udskrift
+Rum 1: Pass=1, Fail=3
+
+Rum 2: Pass=2, Fail=0
+
+Rum 3: Pass=0, Fail=1
