@@ -11,4 +11,5 @@ Bitvis XOR, boolske flags, og betinget udskrivning.
 
 ## Link
 nasm -f win32 main.asm -o main.obj
+
 gcc -m32 main.obj -o loop.exe
