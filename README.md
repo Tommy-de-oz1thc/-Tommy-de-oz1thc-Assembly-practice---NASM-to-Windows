@@ -30,13 +30,13 @@ Lav en array med bogstaver, træk 5 tilfældige og vis dem.
 
 Niveau 3 – Avanceret
 --------------------
-*7. Gem/load statistik fra fil (cw_stats.dat)
+7. Gem/load statistik fra fil (cw_stats.dat)
 Ved opstart: læs 10 bytes. Ved afslutning: skriv dem tilbage. Brug open/read/write.
 
-*8. Menu med tastestyring
+8. Menu med tastestyring
 Lav en menu hvor brugeren vælger funktioner med tal. Fx: '1: CW', '2: Statistik'.
 
-*9. Adgangskode-funktion
+9. Adgangskode-funktion
 Spilleren skal skrive 4 tegn korrekt (sammenlignes byte for byte med gemt kode).
 
 
