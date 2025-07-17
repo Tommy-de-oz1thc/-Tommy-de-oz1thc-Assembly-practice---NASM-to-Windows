@@ -11,6 +11,7 @@ Dataformatering, brug af flere variabler, udskrivning.
 
 ## Link
 nasm -f win32 main.asm -o main.obj
+
 gcc -m32 main.obj -o loop.exe
 
 ## Udskrift
