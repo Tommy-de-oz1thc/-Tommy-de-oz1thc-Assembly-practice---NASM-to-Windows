@@ -9,6 +9,9 @@ Print fx 'Rum 1: Pass=3, Fail=1' med _printf.
 ## Det jeg har lært
 Dataformatering, brug af flere variabler, udskrivning.
 
+## Link
+nasm -f win32 main.asm -o main.obj
+gcc -m32 main.obj -o loop.exe
 
 ## Udskrift
 Rum 1: Pass=1, Fail=3
