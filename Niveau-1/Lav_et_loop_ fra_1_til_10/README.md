@@ -11,4 +11,5 @@ Brug af loop-registre (ECX), printf, og kontrolstruktur.
 
 ## Link
 nasm -f win32 main.asm -o main.obj
+
 gcc -m32 main.obj -o loop.exe
