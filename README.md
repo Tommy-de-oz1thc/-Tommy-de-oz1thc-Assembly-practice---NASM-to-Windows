@@ -24,7 +24,7 @@ Lav en funktion der inkrementerer en statistikvariabel (pass/fail) givet en offs
 5. Statistikoversigt: Vis for flere rum
 Udskriv fx: 'Rum 1: Pass=3, Fail=1'. Brug _printf og variabler pr. rum.
 
-*6. Tilfældig CW-sekvens (bogstaver A–Z)
+6. Tilfældig CW-sekvens (bogstaver A–Z)
 Lav en array med bogstaver, træk 5 tilfældige og vis dem.
 
 
